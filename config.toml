@@ -3,21 +3,14 @@ title = "Jesse's Portfolio"
 theme = "creative-portfolio"
 languageCode = "en-au"
 
-disqusShortname = ""
-googleAnalytics = ""
-
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
   style = "red"
-  description = "2018/2019 Madrid Language Assistant Portfolio"
-  #copyright = "&copy;2016 Your name or company"
+  author = "Jesse"
+  description = "Jesse's 2018/2019 Madrid Language Assistant Portfolio"
   sidebarAbout = [
     "Hello! My name is Jesse. I'm an Australian who is taking part in the 2018/2019 Auxiliares de Conversación programme.",
-    "I work at CEIP El Peralejo and help to teach English to kids from 3yrs old to 6th grade."
+    "I work at CEIP El Peralejo, which is located in Alpedrete, Madrid. My students range from 3 yrs olds to 6th graders."
   ]
-
-  email = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
