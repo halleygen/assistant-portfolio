@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en-au"
+title = "Jesse's Portfolio"
+theme = "creative-portfolio"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  style = "red"
+  description = "Describe your website"
+  #copyright = "&copy;2016 Your name or company"
+  sidebarAbout = [
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "home/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+
+  [[params.navlinks]]
+  name = "Final Project"
+  url = "contact/"
