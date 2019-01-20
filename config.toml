@@ -1,6 +1,7 @@
 baseurl = "https://halleygen.github.io/auxiliar-project/"
 title = "Jesse's Portfolio"
-theme = "creative-portfolio"
+#theme = "creative-portfolio"
+theme = "hugo-primer"
 languageCode = "en-au"
 
 [params]
