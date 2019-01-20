@@ -1,31 +1,31 @@
 +++
-showonlyimage = false
-draft = false
+date = ""
 image = "img/portfolio/ipad-air-2.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
+showonlyimage = false
+title = "The Mystery Box"
 weight = 8
+
 +++
+# What am I?
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+#### Classes I did this activity with:
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+* 1st, 2nd
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Required materials:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* Something to function as the mystery box (can be as simple as a folded piece of paper with a box printed on it or an actual box)
+* Flash cards
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Description:
 
-## Header Level 2
+This is a game that is played in small groups. I found that four to five students was usually a good amount. Each person takes a turn being the one with the mystery box and puts a flash card of their choice in it.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Next, the other players have to ask questions to try and find out what is in the mystery box. The kinds of questions can be varied depending on the English level of the players. At their most simple they can be _Is it a...?_ and more difficult ones can be asking about the characteristics of the item in the box.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+The person who successfully guesses what is in the mystery box gets to go next, but towards you may have to let some of the students with poorer English have a go regardless of whether or not they win.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+It is important to have rules about the kinds of questions and responses that are allowed. For example:
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+* Good: _Is it a pencil case?_  Bad: _Pencil case?_
+* Good: _Yes, it is_/_No, it isn't_  Bad: _Yes_/_No_
