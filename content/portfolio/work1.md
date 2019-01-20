@@ -22,13 +22,10 @@ This is a game that is played with an entire class. It is intended to teach very
 You start by choosing one of the flash cards and singing the following song (adjust the lyrics for the current colour, obviously):
 
 > I see something blue  
-> BLUE!
->
-> I see something blue
->
+> BLUE!  
+> I see something blue  
 > BLUE! BLUE!  
-> I see something blue
->
+> I see something blue  
 > FIND SOMETHING BLUE!
 
 Upon reaching the end of the song the children have to find an object from around the classroom that is the right colour and bring it you. After everyone has shown you something (or a reasonable amount of time has passed) you call out _STOP!_ and everyone has to return to their seat.
