@@ -6,8 +6,6 @@ title = "What am I?"
 weight = 9
 
 +++
-# What am I?
-
 #### Classes I did this activity with:
 
 * 3rd, 4th, 5th, 6th
