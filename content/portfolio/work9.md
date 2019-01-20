@@ -1,31 +1,28 @@
 +++
-draft = false
+date = ""
 image = "img/portfolio/envelope-brand.jpg"
 showonlyimage = false
-date = "2016-11-05T20:02:19+05:30"
-title = "Item with image"
+title = "What am I?"
 weight = 9
+
 +++
+# What am I?
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-<!--more-->
+#### Classes I did this activity with:
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+* 3rd, 4th, 5th, 6th
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Required materials:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* Hats for each student (I usually made/had the students make origami hats from sheets of newspaper)
+* Animal flash cards
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Description:
 
-## Header Level 2
+This is a game that is played in small groups. I found that four to five students was usually a good amount. Each person puts on their hat and an animal flash card is sat in its brim, such that no one can knows the card that is in their hat, but can see those of their classmates.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Next, each person takes a turn to ask a question to try to guess the animal on their flash card until everyone has worked out who they have. The first person to guess their animal gets to choose which animal another player is for the next round.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+It is important to have rules about the kinds of questions and responses that are allowed. For example, all students had to answer   _Have I got...?/Am I...?/Can I...?_ questions with _Yes, you have/Yes, you are/No, you can't_ rather than with just a simple _yes_ or _no_.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+With the older students you can have more creative rules. A popular one was that every question had to compare yourself to another player (e.g. _Am I taller than...?/Can I swim better than...?_).
