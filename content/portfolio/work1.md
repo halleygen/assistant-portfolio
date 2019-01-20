@@ -1,7 +1,7 @@
 +++
 date = ""
 image = "img/portfolio/a4-paper.jpg"
-showonlyimage = true
+showonlyimage = false
 title = "Find something [insert colour here]!"
 weight = 0
 
