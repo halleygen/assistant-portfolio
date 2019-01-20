@@ -6,8 +6,6 @@ title = "What am I wearing today?"
 weight = 7
 
 +++
-# What am I wearing today?
-
 #### Classes I did this activity with:
 
 * 1st, 2nd
@@ -26,4 +24,4 @@ It is important to make sure that the students respond properly (i.e. in full se
 
 Also, make sure that there are enough boys and girls clothes included in the pictures; some students get bored if they have to design outfits for the other gender.
 
-I found that this activity worked best when there was a good mix of normal and weird clothes to choose from. 
+I found that this activity worked best when there was a good mix of normal and weird clothes to choose from.
