@@ -1,31 +1,29 @@
 +++
+date = ""
 image = "img/portfolio/label-clothes.jpg"
 showonlyimage = false
-date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
-draft = false
+title = "What am I wearing today?"
 weight = 7
+
 +++
+# What am I wearing today?
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+#### Classes I did this activity with:
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+* 1st, 2nd
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Required materials:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* Cutout pictures of different articles of clothing
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Description:
 
-## Header Level 2
+This is an activity that is done in small groups. I found that two to four students was usually a good amount. Each person takes a turn to design an outfit using the cutout pictures, and the others have to say what someone in this outfit would be wearing.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+In between rounds, when a person designing their outfit, another person should stand up and either tell the others what they are wearing or be told what they are wearing by someone else.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+It is important to make sure that the students respond properly (i.e. in full sentences) rather than just listing the items that make up the outfit. As I did this activity mainly with 5-6 year olds, they often tried to get away with this while they were getting warmed up.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Also, make sure that there are enough boys and girls clothes included in the pictures; some students get bored if they have to design outfits for the other gender.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+I found that this activity worked best when there was a good mix of normal and weird clothes to choose from. 
