@@ -1,31 +1,35 @@
 +++
-draft = false
+date = ""
 image = "img/portfolio/trifold.jpg"
 showonlyimage = true
-date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+title = "The Jumping Game"
 weight = 10
+
 +++
+# What am I?
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-<!--more-->
+#### Classes I did this activity with:
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+* 3 years old, 4 years old, 5 years old
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+#### Required materials:
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* A set of flash cards of any topic
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Description:
 
-## Header Level 2
+This is a game that is played with an entire class. It is intended to help reinforce the learning of certain words around the same theme. Examples of themes I have taught are:
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+* family members
+* wild animals
+* colours
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Everyone stands in a circle and waits for the teacher to show a flash card and say a word. If what the teacher says corresponds to the presented flash card then the students have to jump, otherwise they have to stay still. If you jump at the wrong time then you are eliminated and have to sit down.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+After a few rounds the majority of the students will know the vocabulary words quite well, so you have to become trickier and faster.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+I also like to introduce a rule towards the end where the last person to jump is eliminated to make sure that people aren't just copying their classmates.
+
+The kids respond much better if you take part in the game as much as possible. For example, I always made sure to stand in the circle with everyone else. I also jumped along with the students (often at the wrong time to try to trick them).
+
+As they start to learn the words, many students will be able to tell when you're trying to trick them and call out the right answer. I encouraged this, because it gets them to speak and gets the eliminated ones to continue paying attention and learning.
