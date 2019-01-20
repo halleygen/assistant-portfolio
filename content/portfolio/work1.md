@@ -1,31 +1,38 @@
 +++
-showonlyimage = true
-draft = false
+date = ""
 image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+showonlyimage = true
+title = "Find something [insert colour here]!"
 weight = 0
+
 +++
+#### Classes I did this activity with:
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-<!--more-->
+* 3 years old, 4 years old
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+#### Required materials:
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+* Colour flash cards
+* A classroom
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+#### Description:
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+This is a game that is played with an entire class. It is intended to teach very young children the colours in English. It involves the children finding something of a particular colour and showing you.
 
-## Header Level 2
+You start by choosing one of the flash cards and singing the following song (adjust the lyrics for the current colour, obviously):
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+> I see something blue  
+> BLUE!
+>
+> I see something blue
+>
+> BLUE! BLUE!  
+> I see something blue
+>
+> FIND SOMETHING BLUE!
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Upon reaching the end of the song the children have to find an object from around the classroom that is the right colour and bring it you. After everyone has shown you something (or a reasonable amount of time has passed) you call out _STOP!_ and everyone has to return to their seat.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+It is important to ensure that everyone follows rules like no running, putting things back neatly when you're finished with them, returning to your seat upon hearing _STOP!_, etc. A good way to discipline children who don't follow these rules is to have to sit out for a round. As much of the game consists of around twenty 3 year olds excitedly searching the classroom it's important that everyone does what they are supposed to.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Also, you should make sure that as many children sing along with you as possible, otherwise you get in the situation where there are many who can understand the colours in English, but not actually say them.
