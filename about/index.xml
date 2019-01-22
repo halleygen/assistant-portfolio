@@ -11,5 +11,14 @@
 	<atom:link href="https://halleygen.github.io/auxiliar-project/about/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>L.A. Highlights</title>
+      <link>https://halleygen.github.io/auxiliar-project/about/highlights-as-auxiliar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://halleygen.github.io/auxiliar-project/about/highlights-as-auxiliar/</guid>
+      <description> Highlights  one two three  </description>
+    </item>
+    
   </channel>
 </rss>
