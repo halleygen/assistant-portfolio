@@ -15,6 +15,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: content/australia-day
+  label: Australia Day
+  create: all
+  match: "**/*"
+- type: directory
   path: content/final-project
   label: Final Project
   create: all
