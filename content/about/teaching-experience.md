@@ -2,7 +2,7 @@
 date = "{{ .Date }}"
 showonlyimage = false
 title = "Teaching Experience"
-weight = 1
+weight = 3
 
 +++
 
@@ -13,5 +13,3 @@ weight = 1
 #### Goals for Me
 
 #### Goals for Learners
-
-### Main Activities Developed as a Language Assistant
