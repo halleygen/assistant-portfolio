@@ -2,7 +2,7 @@
 date = "{{ .Date }}"
 showonlyimage = false
 title = "El Peralejo Primary School"
-weight = 0
+weight = 2
 
 +++
 
