@@ -8,7 +8,7 @@ weight = 2
 
 I was assigned to CEIP El Peralejo, which is a primary school (1st - 6th grade) and a pre-school (3 - 5 years old). It is located in Alpedrete, a small town in the mountains to the north-west of Madrid.
 
-{{< openstreetmap mapName="auxmadrid_elperalejo_284733" >}}
+{{< openstreetmap mapName="auxmadrid_elperalejo_284733" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
 
 El Peralejo was opened in <#year#> and has about 400 students and 27 teachers. They have one English and one French language assistant. I am the second English language assistant to be at the school.
 
