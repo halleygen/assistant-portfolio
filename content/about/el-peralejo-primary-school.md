@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "{{ .Date }}"
 showonlyimage = false
 title = "El Peralejo Primary School"
 weight = 0
@@ -16,14 +16,6 @@ El Peralejo was opened in <#year#> and has about 400 students and 27 teachers. T
 
 ### Assigned Classes and Subjects
 
-I was usually only assigned English classes. This is because El Peralejo is not a bilingual school, so the only subjects not taught in Spanish are French and English. I was assigned classes with each level at the school, i.e.:
+I was usually only assigned English classes. This is because El Peralejo is not a bilingual school, so the only subjects not taught in Spanish are French and English. My timetable was organised such that I did one English lesson each week with every class in the school. I liked this because it meant that I could spend time with all of the students, but it could also be challenging because it took me much longer to get to know them.
 
-* 3 years old
-* 4 years old
-* 5 years old
-* 1st grade
-* 2nd grade
-* 3rd grade
-* 4th grade
-* 5th grade
-* 6th grade
+On special occasions, like leading up to the Australia Day event, my timetable was temporarily changed so that I could help to teach other subjects, such as physical education.
