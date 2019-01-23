@@ -19,3 +19,8 @@ El Peralejo was opened in <#year#> and has about 400 students and 27 teachers. T
 I was usually only assigned English classes. This is because El Peralejo is not a bilingual school, so the only subjects not taught in Spanish are French and English. My timetable was organised such that I did one English lesson each week with every class in the school. I liked this because it meant that I could spend time with all of the students, but it could also be challenging because it took me much longer to get to know them.
 
 On special occasions, like leading up to the Australia Day event, my timetable was temporarily changed so that I could help to teach other subjects, such as physical education.
+
+### Contact Details
+
+* Website: [CEIP El Peralejo](https://www.educa2.madrid.org/web/centro.cp.elperalejo.alpedrete)
+* Twitter: [@cpelperalejo](https://twitter.com/cpelperalejo)
