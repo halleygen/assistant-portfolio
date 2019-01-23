@@ -1,7 +1,7 @@
 +++
 date = ""
 showonlyimage = false
-title = "L.A. Highlights"
+title = "LA Highlights"
 weight = 5
 
 +++
