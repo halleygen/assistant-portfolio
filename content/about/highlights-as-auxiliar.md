@@ -12,7 +12,7 @@ One of the things that I commonly hear from people who speak English as a second
 
 ...
 
-Despite this one of the highlights of the LA programme for me is hearing how some of the students have started to pick up my Australian accent. It is particularly noticable in words such as "*No*", which has a distinct prnounciation in Australian English.
+Despite this one of the highlights of the LA programme for me is hearing how some of the students have started to pick up my Australian accent. It is particularly noticable in words such as "*No*", which has a distinct pronounciation in Australian English.
 
 ### Watching the Students Improve
 
