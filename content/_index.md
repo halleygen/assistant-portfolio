@@ -19,4 +19,4 @@ Fortunately for me, I grew up overseas and have lived in various countries aroun
 
 Until June 2019, I will be working at CEIP El Peralejo, which is located in Alpedrete, Madrid. My students range from 3 year olds to 6th graders.
 
-{{< openstreetmap mapName="australia_285909" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
+{{< openstreetmap mapName="auxmadrid-australia_285909" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
