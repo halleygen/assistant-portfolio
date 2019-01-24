@@ -1,6 +1,6 @@
 baseurl = "https://halleygen.github.io/auxiliar-project/"
 title = "Jesse's Portfolio"
-theme = "hugo-learn"
+theme = "kube"
 languageCode = "en-au"
 
 
@@ -10,6 +10,23 @@ languageCode = "en-au"
   description = "Jesse's 2018/2019 Madrid Language Assistant Portfolio"
   disableNextPrev = true
 
+[[menu.main]]
+	name = "Home"
+	weight = 0
+	url = "/"
+[[menu.main]]
+	name = "About"
+	weight = 0
+	url = "/about"
+[[menu.main]]
+	name = "Portfolio"
+	weight = 0
+	url = "/portfolio"
+[[menu.main]]
+	name = "Australia Day"
+	weight = 0
+	url = "/australia-day"
+	
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
