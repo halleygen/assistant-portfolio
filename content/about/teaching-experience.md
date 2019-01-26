@@ -3,7 +3,6 @@ date = "{{ .Date }}"
 showonlyimage = false
 title = "Teaching Experience"
 weight = 3
-
 +++
 
 ### Assigned Classes and Subjects
@@ -15,6 +14,10 @@ On special occasions, like leading up to the Australia Day event, my timetable w
 ### Goals
 
 #### Goals for Me
+
+My primary goal is to become more confident at teaching and communicating new things to other people. When I am working with the kids I pretend that I cannot speak any Spanish so that they will not fall back to speaking their native language in more difficult situations instead of having a go in English. This means that there are plenty of times when I have to find ways to effectively convey complex and abstract concepts in a way that is easy for a child to understand. As the well known (and misattributed) Einstein quote *"If you can't explain it simply, you don't understand it well enough"* goes, I feel that improving this skill will help me to teach my students much better. 
+
+My secondary goal is to improve my level of Spanish. Although the majority of my students still believe that I do not speak any Spanish, there are still lots of times where I need to be able to effectively communicate in Spanish, for example, with people in Alpedrete that make up the El Peralejo community (like the family of the kids), and with teachers or other faculty members who do not speak English. Due to this I think that this is an important goal.
 
 #### Goals for Learners
 
