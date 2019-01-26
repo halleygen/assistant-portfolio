@@ -5,4 +5,8 @@ chapter = true
 weight = 2
 +++
 
-{{% children  %}}
+# Portfolio
+
+Below are some of the most successful activities I have done with my students so far:
+
+{{% children %}}

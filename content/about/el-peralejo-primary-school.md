@@ -9,6 +9,8 @@ I was assigned to CEIP El Peralejo, which is a primary school (1st - 6th grade) 
 
 {{< openstreetmap mapName="auxmadrid_elperalejo_284733" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
 
+I chose to live in the centre of Madrid rather than in Alpedrete, which was possible because the public transport is so good. Each morning I take the metro to the Intercambiador de Moncloa then catch a bus to Alpedrete. This commute takes about one hour each way from door to door.
+
 El Peralejo was opened on 18th November 2000, and has  27 teachers and about 400 students. There are two classes for each grade in the primary school and each age level in the pre-school. They have two language assistants: an English-speaking one (me) and a French-speaking one. I am the second English language assistant to have worked at the school. 
 
 {{< tweet 1047424119288094720 >}}
