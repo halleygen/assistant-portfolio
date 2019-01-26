@@ -2,7 +2,7 @@
 date = ""
 image = "img/portfolio/trifold.jpg"
 title = "Australian Stories"
-weight = 10
+weight = 5
 +++
 
 One of the after lunchtime activities was reading an Australian story. For some classes this was a collection of tales from Aboriginal mythology and for others it was [*Edward the Emu* by Sheena Knowles](https://www.harpercollins.com/9780064434997/edward-the-emu/).

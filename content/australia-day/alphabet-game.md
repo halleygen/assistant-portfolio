@@ -3,33 +3,18 @@ date = ""
 image = "img/portfolio/trifold.jpg"
 title = "Alphabet Game"
 weight = 10
-
 +++
 
-#### Australia Day Celebration
+This was an activity based on *The Alphabet Game* game show (the Spanish equivalent was called *Pasapalabra*). It consisted of a quiz where you had to guess twenty-six words relating to Australia (one for each letter of the English alphabet). Each letter had an associated clue and players worked in teams. The first team to get all twenty-six words correctly is the winner.
 
-# Alphabet Game
+For example:
 
-* 3 years old, 4 years old, 5 years old
+* B: *One of the colours on the Australian flag*: **Blue**
+* C: *A popular sport in Australia*: **Cricket**
+* J: *The name for a baby kangaroo*: **Joey**
 
-#### Required materials:
+This activity was probably the most difficult for the students because they don't know much about Australia yet and in order to find a words for a some of the more uncommon letters, like *X*, you have to choose something niche. To try and counter this I prepared a keynote presentation that covered a various facets of Australian culture, including those in the quiz to help the students. This was presented to them before the day and was played on repeat while they were doing it.
 
-* A set of flash cards of any topic
+I found this activity to be a fun way for the kids to learn about Australia and improve their vocabulary. That being said, I think that it would only work successfully with older students who can work more independently. In this scenario, only grades 4 - 6 did this activity.
 
-#### Description:
-
-This is a game that is played with an entire class. It is intended to help reinforce the learning of certain words around the same theme. Examples of themes I have taught are:
-
-* family members
-* wild animals
-* colours
-
-Everyone stands in a circle and waits for the teacher to show a flash card and say a word. If what the teacher says corresponds to the presented flash card then the students have to jump, otherwise they have to stay still. If you jump at the wrong time then you are eliminated and have to sit down.
-
-After a few rounds the majority of the students will know the vocabulary words quite well, so you have to become trickier and faster.
-
-I also like to introduce a rule towards the end where the last person to jump is eliminated to make sure that people aren't just copying their classmates.
-
-The kids respond much better if you take part in the game as much as possible. For example, I always made sure to stand in the circle with everyone else. I also jumped along with the students (often at the wrong time to try to trick them).
-
-As they start to learn the words, many students will be able to tell when you're trying to trick them and call out the right answer. I encouraged this, because it gets them to speak and gets the eliminated ones to continue paying attention and learning.
+If I could change one thing about the way that I planned this activity it would to be more aware about the pop culture differences between the people my age and the children. For example, for the letter N I had *A famous Australian actress who was married to Tom Cruise*: **Nicole Kidman**, without realising that no one would know who Nicole Kidman was. If I wanted a question about an Australian actor or actress it would be better to choose someone like Chris Hemsworth because he is much more known by children due to playing Thor in a tonne of superhero movies. 
