@@ -7,11 +7,11 @@ title = "Home"
 
 ----------
  
-Hello! My name is Jesse. I'm an Australian who is taking part in the 2018\/2019 Language Assistants programme. 
+Hello! My name is Jesse. I'm an Australian who is taking part in the 2018 - 2019 Language Assistants programme. 
 
 I come from a small town in Queensland, but I have spent a lot of time living in other parts of the world. Unlike many other English speaking countries, Australia is not very exposed to other languages. English is the only language spoken by a significant portion of the population, and learning foreign languages is not usually taken very seriously because we live so far away from the rest of the world.
 
-{{< openstreetmap mapName="auxmadrid-australia_285909" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
+{{< openstreetmap mapName="auxmadrid-australia_287030" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
 
 Fortunately for me, I grew up overseas and have lived in various countries around Asia and North America, and foreign languages were considered much more important in the schools that I attended. This is when I had my first encounters with the Spanish language. Despite it being a compulsory class, Spanish ended up being one of my favourite subjects, so much so that once I started university, I decided to do various Spanish literature courses as my electives, leaving my friends to enjoy business law by themselves.
 
