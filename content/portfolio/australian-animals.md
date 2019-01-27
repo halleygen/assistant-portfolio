@@ -12,7 +12,7 @@ weight = 0
 #### Required materials:
 
 * Computer with projector
-* [Keynote](https://www.icloud.com/keynote/0buVSqU8xJ9MKBXs9fX4N5WaQ#Australian_Animals)
+* [Keynote presentation](https://www.icloud.com/keynote/0buVSqU8xJ9MKBXs9fX4N5WaQ#Australian_Animals)
 
 #### Description:
 
