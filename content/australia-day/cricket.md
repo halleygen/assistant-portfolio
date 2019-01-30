@@ -1,6 +1,5 @@
 +++
 date = ""
-image = "img/portfolio/a4-paper.jpg"
 showonlyimage = false
 title = "Cricket"
 weight = 0
@@ -20,3 +19,9 @@ After carrying out this activity, the two main tips I have for anyone who would 
 
 1. Modify the rules to make the game more dynamic and fast-paced. Although some cricket matches last a week, this is impractical in a primary school setting because a PE lesson usually lasts just an hour and young children get bored easily. The game should be more like that of Twenty20 cricket than a test match. The kids also liked some of the unofficial "backyard cricket" rules (e.g. catching a ball that has bounced once with one hand elimates the batter, if you hit the ball then you have to run, etc.).
 2. Practice explaining the rules to another person who hasn't played the game before attempting to do it to your students. The sport is complex and in my case I found it hard to put the rules into words in a concise and comprehensible way on the spot, despite having played since I was a child. It's also import to note that there are words that exist in English with no nice equivalent in Spanish, for example, some pieces of equipment (*wickets*, *bails*) and *fielding*.
+
+#### Resources
+
+{{< tweet 1088722674703106048 >}}
+
+{{< tweet 1087704679704862725 >}}
