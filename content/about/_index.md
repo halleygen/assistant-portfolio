@@ -15,10 +15,6 @@ After graduating from high school I returned to Australia to study finance and e
 
 Towards the end of my university course I heard about the Language Assists Programme from one of my Spanish teachers and couldn't resist the opportunity to apply.
 
-### Expectations for the Language Assistant Programme
-
-
-
 ### Making This Website
 
 I made this website using [Hugo](https://gohugo.io), an open source project that generates static websites from markdown files. It is hosted by [Github Pages](https://pages.github.com), which lets you host a website from a git repository for free. The theme I used is a simple one called [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn).
