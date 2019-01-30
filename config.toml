@@ -7,7 +7,6 @@ languageCode = "en-au"
   themeVariant = "blue"
   author = "Jesse"
   description = "Jesse's 2018/2019 Madrid Language Assistant Portfolio"
-  disableNextPrev = true
 	
 # For search functionality
 [outputs]

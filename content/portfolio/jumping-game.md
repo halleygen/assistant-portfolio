@@ -1,6 +1,5 @@
 +++
 date = ""
-image = "img/portfolio/trifold.jpg"
 title = "The Jumping Game"
 weight = 10
 
@@ -31,3 +30,9 @@ I also like to introduce a rule towards the end where the last person to jump is
 The kids respond much better if you take part in the game as much as possible. For example, I always made sure to stand in the circle with everyone else. I also jumped along with the students (often at the wrong time to try to trick them).
 
 As they start to learn the words, many students will be able to tell when you're trying to trick them and call out the right answer. I encouraged this, because it gets them to speak and gets the eliminated ones to continue paying attention and learning.
+
+#### Resources
+
+Below is a video of me playing the jumping game with one of the preschool classes.
+
+{{< tweet 1090261299768963073 >}}

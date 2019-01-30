@@ -1,7 +1,5 @@
 +++
 date = ""
-image = "img/portfolio/label-clothes.jpg"
-showonlyimage = false
 title = "What am I wearing today?"
 weight = 7
 
@@ -25,3 +23,9 @@ It is important to make sure that the students respond properly (i.e. in full se
 Also, make sure that there are enough boys and girls clothes included in the pictures; some students get bored if they have to design outfits for the other gender.
 
 I found that this activity worked best when there was a good mix of normal and weird clothes to choose from.
+
+#### Resources
+
+![Paper mannequin found online](/auxiliar-project/img/portfolio/what-am-i-wearing1.jpg)
+
+![Various articles of clothing found online](/auxiliar-project/img/portfolio/what-am-i-wearing2.png)

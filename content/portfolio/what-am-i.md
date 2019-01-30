@@ -1,6 +1,5 @@
 +++
 date = ""
-image = "img/portfolio/envelope-brand.jpg"
 showonlyimage = false
 title = "What am I?"
 weight = 9
@@ -24,3 +23,7 @@ Next, each person takes a turn to ask a question to try to guess the animal on t
 It is important to have rules about the kinds of questions and responses that are allowed. For example, all students had to answer   _Have I got...?/Am I...?/Can I...?_ questions with _Yes, you have/Yes, you are/No, you can't_ rather than with just a simple _yes_ or _no_.
 
 With the older students you can have more creative rules. A popular one was that every question had to compare yourself to another player (e.g. _Am I taller than...?/Can I swim better than...?_).
+
+#### Resources
+
+![A paper hat with a flash card in it](/auxiliar-project/img/portfolio/what-am-i.jpg)
