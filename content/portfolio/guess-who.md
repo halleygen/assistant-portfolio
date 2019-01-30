@@ -29,4 +29,4 @@ Occasionally I would have each child in the class colour in their own person and
 
 The first page of worksheet that I got from [One Stop English](https://www.onestopenglish.com) and coloured in to use with 3rd graders for this activity.
 
-![Sample worksheet from onestopenglish.com](/auxiliar-project/img/portfolio/guess-who.png)
+![Sample worksheet from onestopenglish.com](/assistant-portfolio/img/portfolio/guess-who.png)

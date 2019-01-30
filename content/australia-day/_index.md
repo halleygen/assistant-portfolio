@@ -14,3 +14,5 @@ On Friday 25th January 2019, we celebrated Australia Day at El Peralejo. The cel
 Some of the activities that I helped to organise were:
 
 {{% children %}}
+
+![Aboriginal artwork from a student](/assistant-portfolio/img/australia-day/aboriginal-art.jpg)

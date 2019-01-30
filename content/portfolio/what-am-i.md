@@ -26,4 +26,4 @@ With the older students you can have more creative rules. A popular one was that
 
 #### Resources
 
-![A paper hat with a flash card in it](/auxiliar-project/img/portfolio/what-am-i.jpg)
+![A paper hat with a flash card in it](/assistant-portfolio/img/portfolio/what-am-i.jpg)

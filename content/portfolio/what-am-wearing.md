@@ -26,6 +26,6 @@ I found that this activity worked best when there was a good mix of normal and w
 
 #### Resources
 
-![Paper mannequin found online](/auxiliar-project/img/portfolio/what-am-i-wearing1.jpg)
+![Paper mannequin found online](/assistant-portfolio/img/portfolio/what-am-i-wearing1.jpg)
 
-![Various articles of clothing found online](/auxiliar-project/img/portfolio/what-am-i-wearing2.png)
+![Various articles of clothing found online](/assistant-portfolio/img/portfolio/what-am-i-wearing2.png)

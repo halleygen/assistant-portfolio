@@ -20,6 +20,6 @@ If I could change one thing about the way that I planned this activity it would 
 
 #### Resources
 
-[Here is a link](/auxiliar-project/img/documents/pasapalabra-de-australia.docx) to the final version of the activity.
+[Here is a link](/assistant-portfolio/img/documents/pasapalabra-de-australia.docx) to the final version of the activity.
 
 [Here is a link](https://view.genial.ly/5c3cdda8633e1c6e51ce3216) to an alternate version of the activity. It is in a digital form and was made using a website called *Genially*.
