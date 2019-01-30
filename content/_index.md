@@ -13,8 +13,6 @@ I come from a small town in Queensland, but I have spent a lot of time living in
 
 {{< openstreetmap mapName="auxmadrid-australia_287030" miniMap="false" moreControl="false" searchControl="false" scrollWheelZoom="false" >}}
 
-Fortunately for me, I grew up overseas and have lived in various countries around Asia and North America, and foreign languages were considered much more important in the schools that I attended. This is when I had my first encounters with the Spanish language. Despite it being a compulsory class, Spanish ended up being one of my favourite subjects, so much so that once I started university, I decided to do various Spanish literature courses as my electives, leaving my friends to enjoy business law by themselves.
-
 I wanted to take part in the Language Assistants Programme because I thought that it would be a good opportunity to improve my Spanish and to get to experience all the wonderful parts of Spain that I had spent so much time learning about at school. So far, it has lived up to my expectations and I have enjoyed working at a school in Spain a lot. I would recommend this programme to anyone who has an interest Spanish culture and working with kids.
 
 ----------
