@@ -1,4 +1,4 @@
-baseurl = "https://halleygen.github.io/auxiliar-project/"
+baseurl = "https://halleygen.github.io/assistant-portfolio/"
 title = "Jesse's Portfolio"
 theme = "hugo-learn"
 languageCode = "en-au"
